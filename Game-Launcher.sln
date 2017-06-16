@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game-Launcher", "Game-Launcher\Game-Launcher.csproj", "{E8EB90F7-4A31-4CCB-BE5F-282A94F3B7FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest-Game-Launcher", "UnitTest-Game-Launcher\UnitTest-Game-Launcher.csproj", "{6062B2B5-F339-41A0-995A-8FA088A6CD36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8EB90F7-4A31-4CCB-BE5F-282A94F3B7FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8EB90F7-4A31-4CCB-BE5F-282A94F3B7FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8EB90F7-4A31-4CCB-BE5F-282A94F3B7FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8EB90F7-4A31-4CCB-BE5F-282A94F3B7FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6062B2B5-F339-41A0-995A-8FA088A6CD36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6062B2B5-F339-41A0-995A-8FA088A6CD36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6062B2B5-F339-41A0-995A-8FA088A6CD36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6062B2B5-F339-41A0-995A-8FA088A6CD36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
